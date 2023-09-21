@@ -1,4 +1,4 @@
-# Senecio_OBLab
+# Collaboration_Senecio_OBLab
 ##Senecio Transcriptome Part (Zoe)
 
 ##For FASTQC and Trimmomatic, please, see my previous training info that is already in the OB lab training GitHub page.
